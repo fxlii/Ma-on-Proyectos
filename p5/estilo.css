@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    padding: 0;
+   }
+   
+   .container{
+       text-align: center;
+       margin-top: 300px;
+   }
+   
+   /* Hover */
+   .boton{
+       color:red;
+   }
+   
+   .boton:hover{
+       color:black;
+   }
+   
+   /* Link */
+   
+   .a:link{
+       color:blue;  
+   }
+   .a:visited{
+       color:purple;
+   }
+   
+   
+   }
